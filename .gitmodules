@@ -1,0 +1,7 @@
+[submodule "Eventogenic_Frontend"]
+	path = Eventogenic_Frontend
+	url = https://github.com/Eventogenic/Eventogenic_Frontend
+
+[submodule "Eventogenic_Backend"]
+	path = Eventogenic_Backend
+	url = https://github.com/Eventogenic/Eventogenic_Backend
